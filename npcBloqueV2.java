@@ -4,7 +4,7 @@ public class npcBloqueV2{
 	public static void main(String[] args){
 		int npc[][] = { 
 			{2,2},		// Coordenadas X,Y del 1º NPC 
-			{3,5}, 		// Coordenadas X,Y del 2º NPC
+			{5,5}, 		// Coordenadas X,Y del 2º NPC
 			{6,9}		// Coordenadas X,Y del 3º NPC
 		};
 		
